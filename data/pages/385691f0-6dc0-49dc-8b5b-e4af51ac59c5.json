@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-06T19:54:24.248Z",
+  "created_by": "SteveMarvin",
+  "title": "test",
+  "slug": "test",
+  "updated_at": "2025-03-06T19:54:24.248Z",
+  "updated_by": "SteveMarvin",
+  "parent": "dae8cd96-e6e7-4f37-b49c-bd9895f7eb67",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "37888d96-40e8-4f45-9023-3d584a18f274"
+  }
+}

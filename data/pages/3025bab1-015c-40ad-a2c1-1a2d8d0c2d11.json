@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-06T19:54:24.310Z",
+  "created_by": "SteveMarvin",
+  "title": "Multi-AV Audio Event",
+  "slug": "multi-av-audio-event-2",
+  "updated_at": "2025-03-06T19:54:24.310Z",
+  "updated_by": "SteveMarvin",
+  "parent": "dae8cd96-e6e7-4f37-b49c-bd9895f7eb67",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "973d8eae-d0e9-4408-bbe5-5fed6eaa7966"
+  }
+}
